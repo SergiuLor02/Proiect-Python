@@ -1,0 +1,5 @@
+https://chatgpt.com/
+https://www.kaggle.com/datasets/sarthak71/food-recipes
+https://pandas.pydata.org/docs/   
+https://plotly.com/python/  
+https://www.kaggle.com/code/imoore/intro-to-exploratory-data-analysis-eda-in-python
